@@ -1,7 +1,6 @@
 package com.theandrey;
 
 import com.theandrey.categories.Critical;
-import com.theandrey.pageobjects.CartPage;
 import com.theandrey.pageobjects.LogInPage;
 import com.theandrey.pageobjects.MainPage;
 import org.junit.After;

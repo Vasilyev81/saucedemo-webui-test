@@ -1,7 +1,6 @@
 package com.theandrey.categories;
 
 import org.junit.experimental.categories.Categories;
-import org.junit.experimental.categories.Category;
 import org.junit.runner.RunWith;
 
 @RunWith(Categories.class)
